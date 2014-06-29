@@ -1,0 +1,4 @@
+lj
+==
+
+learning journal2
